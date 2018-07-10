@@ -1,5 +1,5 @@
 # pix2pix + BEGAN
-- [Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix/)
+- [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix/)
 - [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717)
 
 # Install
@@ -27,5 +27,7 @@
 
 
 # Reference
+- [pix2pix Pytorch](https://github.com/taey16/pix2pix.pytorch)
+- [BEGAN Pytorch](https://github.com/sunshineatnoon/Paper-Implementations/tree/master/BEGAN)
 - [pix2pixBEGAN](https://github.com/taey16/pix2pixBEGAN.pytorch)
 - [Basel Face Model](https://faces.cs.unibas.ch/bfm/index.php?nav=1-1-0&id=details)
