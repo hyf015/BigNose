@@ -1,4 +1,4 @@
-# Bignose: pix2pix + BEGAN
+# pix2pix + BEGAN
 - [Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix/)
 - [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717)
 - Slightly Modified from [pix2pix+BEGAN](https://github.com/taey16/pix2pixBEGAN.pytorch)
@@ -24,3 +24,4 @@
 
 # Reference
 - [pix2pixBEGAN] (https://github.com/taey16/pix2pixBEGAN.pytorch)
+
