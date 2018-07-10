@@ -23,5 +23,5 @@
 
 
 # Reference
-- [pix2pixBEGAN] (https://github.com/taey16/pix2pixBEGAN.pytorch)
-
+- [pix2pixBEGAN](https://github.com/taey16/pix2pixBEGAN.pytorch)
+- [Basel Face Model](https://faces.cs.unibas.ch/bfm/index.php?nav=1-1-0&id=details)
