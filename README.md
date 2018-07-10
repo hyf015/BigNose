@@ -5,7 +5,7 @@
 
 # Install
 - install [pytorch](https://github.com/pytorch/pytorch) and [pytorch.vision](https://github.com/pytorch/vision)
-- GPU is required
+- GPU and MATLAB is required
 
 # Dataset
 - Due to liscence issues, I cannot provide face data I used. Please download from the original site: [Basel Face Model](https://faces.cs.unibas.ch/bfm/index.php?nav=1-2&id=downloads) Download the code to ./PublicMM1 folder
