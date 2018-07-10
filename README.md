@@ -18,6 +18,10 @@
 - ```CUDA_VISIBLE_DEVICES=x python main_pix2pixBEGAN.py --exp save --niter 59```
 - ```CUDA_VISIBLE_DEVICES=x python main_pix2pixBEGAN.py --exp /path/to/save/folder --netD save/net_D_epoch_58.pth --lambdaIMG 0.5 --lrD 0.00001```
 
+# Pretrained Models
+- We provide pretrained Generators and Discriminators in ./Pretrained
+- The Generator is a splitted zip file, which can be downloaded [here](https://drive.google.com/drive/folders/1jlaZcRCOU1PrwBNoxHpFyOGe9KH-L7XL?usp=sharing)
+
 # Results after 400 epoch
 - (order in input, real-target, reconstructed-real, fake, reconstructed-fake) 
 ![reconDandGenG](./imgs/generated.png)
