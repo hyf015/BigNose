@@ -1,7 +1,6 @@
 # pix2pix + BEGAN
 - [Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix/)
 - [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717)
-- Slightly Modified from [pix2pix+BEGAN](https://github.com/taey16/pix2pixBEGAN.pytorch)
 
 # Install
 - install [pytorch](https://github.com/pytorch/pytorch) and [pytorch.vision](https://github.com/pytorch/vision)
