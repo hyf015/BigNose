@@ -8,9 +8,9 @@
 - GPU and MATLAB is required
 
 # Dataset
-- Due to liscence issues, I cannot provide face data I used. Please download from the original site: [Basel Face Model](https://faces.cs.unibas.ch/bfm/index.php?nav=1-2&id=downloads) Download the code to ./PublicMM1 folder
-- Do not overwrite the codes in ./PublicMM1/matlab
-- Use ./PublicMM1/matlab/script_gen_random_head.m to generate random training and testing data
+- Due to liscence issues, I cannot provide face data I used. Please download from the original site: [Basel Face Model](https://faces.cs.unibas.ch/bfm/index.php?nav=1-2&id=downloads) Download the code and unzip the file to [`./PublicMM1`](./PublicMM1) folder
+- Do not overwrite the codes in [`./PublicMM1/matlab`](./PublicMM1/matlab)
+- Use `./PublicMM1/matlab/script_gen_random_head.m` in [`./PublicMM1/matlab`](./PublicMM1/matlab) to generate random training and testing data
 
 # Train
 - **pix2pixBEGAN**
