@@ -8,7 +8,7 @@
 
 # Dataset
 - Due to liscence issues, I cannot provide face data I used. Please download from the original site: [Basel Face Model](https://faces.cs.unibas.ch/bfm/index.php?nav=1-2&id=downloads) Download the code to ./PublicMM1 folder
-- Copy the codes in ./matlab into ./PublicMM1/matlab
+- Do not overwrite the codes in ./PublicMM1/matlab
 - Use ./PublicMM1/matlab/script_gen_random_head.m to generate random training and testing data
 
 # Train
