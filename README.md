@@ -3,7 +3,7 @@
 - [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717)
 - [Basel Face Model](https://faces.cs.unibas.ch/bfm/index.php?nav=1-1-0&id=details)
 
-# Install
+# Install & Requirements
 - install [pytorch](https://github.com/pytorch/pytorch) and [pytorch.vision](https://github.com/pytorch/vision)
 - GPU and MATLAB is required
 
