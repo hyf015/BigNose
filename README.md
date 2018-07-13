@@ -26,6 +26,7 @@
 - (order in input, real-target, reconstructed-real, fake, reconstructed-fake) 
 ![reconDandGenG](./imgs/generated.png)
 
+# Example result using CycleGAN
 - We also show result using CycleGAN in [`./imgs/cycleGAN`](./imgs/cycleGAN). We train [CycleGAN](https://github.com/junyanz/CycleGAN) using the same dataset, and the result seems to be worse.
 
 
